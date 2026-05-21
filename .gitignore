@@ -1,0 +1,28 @@
+# Node
+node_modules/
+dist/
+.vite/
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.pytest_cache/
+
+# Backend runtime data
+backend/.data/*
+!backend/.data/.gitkeep
+!backend/.data/uploads/.gitkeep
+!backend/.data/outputs/.gitkeep
+
+# Environment
+.env
+.env.local
+frontend/.env.local
+backend/.env
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
