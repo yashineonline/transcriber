@@ -1,0 +1,16 @@
+@import "tailwindcss";
+@plugin "daisyui" {
+  themes: nord --default, business --prefersdark;
+}
+
+html, body, #app {
+  min-height: 100%;
+}
+
+body {
+  margin: 0;
+}
+
+.file-input::file-selector-button {
+  cursor: pointer;
+}
