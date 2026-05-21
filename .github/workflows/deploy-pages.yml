@@ -1,4 +1,3 @@
-'EOF'
 name: Deploy frontend to GitHub Pages
 
 on:
