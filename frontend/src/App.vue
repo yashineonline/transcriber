@@ -59,7 +59,7 @@ const t = computed(() => {
     install: 'Install this app from your browser menu for a phone/tablet-like experience.'
   }
   const fr = {
-    title: 'Transcription Whisper',
+    title: 'Y Transcribe',
     subtitle: 'Téléversez un fichier audio ou vidéo, choisissez la langue et la précision, puis revenez quand la transcription est prête.',
     uiLanguage: 'Interface',
     upload: 'Enregistrement',
