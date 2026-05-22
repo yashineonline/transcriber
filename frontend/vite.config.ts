@@ -12,8 +12,8 @@ export default defineConfig({
       registerType: 'autoUpdate',
       includeAssets: ['icon.svg', 'pwa-192x192.png', 'pwa-512x512.png'],
       manifest: {
-        name: 'Whisper Transcriber',
-        short_name: 'Transcriber',
+        name: 'Y Transcribe',
+        short_name: 'Y Transcribe',
         description: 'Upload audio or video and create English or French transcripts.',
         theme_color: '#0f766e',
         background_color: '#f8fafc',
