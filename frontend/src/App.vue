@@ -21,7 +21,7 @@ let poller: number | undefined
 
 const t = computed(() => {
   const en = {
-    title: 'Whisper Transcriber',
+    title: 'Y Transcribe',
     subtitle: 'Upload an audio or video file, choose the language and accuracy, then come back when the transcript is ready.',
     uiLanguage: 'Interface',
     upload: 'Recording',
